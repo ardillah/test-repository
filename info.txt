@@ -1,0 +1,8 @@
+#Final Project Git 101
+- create a free github.com account
+- install github
+- create a new repository on github.com
+- pull your repo from github.com to your computer
+- edit a file on your computer
+- push that file to github.com
+- take a screenshor of your github repo and share it with that class
